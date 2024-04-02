@@ -12,6 +12,6 @@ for c in range (1,5):
     
 soma = sum(lista_idade)
 media = soma / len(lista_idade)
-print(f'A média de idade do grupo é {media}')
+print(f'A média de idade do grupo {media}')
 
     
